@@ -2,7 +2,7 @@ import { LightningElement,track} from 'lwc';
 
 export default class Summary extends LightningElement {
 
-    @track obj=[{'Total_Sprint_Capacity':'100','Total_Estimated_Hours':'100'}];
+    @track obj=[{'Total_Sprint_Capacity':'224','Total_Estimated_Hours':'195'}];
 
     @track colorClass='GREEN';
     
